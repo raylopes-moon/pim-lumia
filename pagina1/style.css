@@ -105,6 +105,9 @@ section {
 
 span {
     color: var(--3-color);
+    color: #efe8c9;
+    text-shadow: 0 0 10px #f4de7b, 0 0 20px #f4de7b, 0 0 30px #f4de7b;
+    
 }
 
 .social-midia a {
@@ -120,6 +123,7 @@ span {
     color: var(--5-color);
     margin: 3rem 1.5rem 3rem 0;
     transition: .5s ease;
+    
 }
 
 .social-midia a:hover {

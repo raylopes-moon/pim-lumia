@@ -45,12 +45,14 @@ header {
 
 .logo {
     font-size: zem;
-    color: #E3B373;
+    color: #ffebd1;
     user-select: none;
+    text-shadow: 0 0 10px #f4de7b, 0 0 20px #f4de7b, 0 0 30px #f4de7b;
 }
 
 .span {
-    color: var(--4-color);
+ color: var(--4-color);
+
 }
 
 .navigation a {
